@@ -81,8 +81,10 @@ Add data logging and analytics
 How to Run
 Connect all hardware components as specified
 Ensure required Python libraries are installed
+
 Run the main script:
 sudo python3 Thermostat.py
+
 Author
 
 Matt Biletnikoff
